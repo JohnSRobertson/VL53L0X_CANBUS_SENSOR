@@ -13,6 +13,7 @@
 
 #ifndef _VSARDUINO_H_
 #define _VSARDUINO_H_
+#define _VMDEBUG 1
 #define F_CPU 48000000L
 #define ARDUINO 108013
 #define ARDUINO_SEEED_XIAO_M0

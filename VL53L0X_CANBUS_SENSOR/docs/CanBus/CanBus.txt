@@ -1,0 +1,51 @@
+﻿EBay Purchase 
+
+ORDER DATE
+Mar 25, 2019
+ORDER NUMBER
+302214924267-1617262650020
+SOLD BY
+wfyb(1 item)
+Order 5Pcs MCP2515 Module CAN Bus Module TJA1050 Receiver SPI For Arduino US
+
+Listing ID: 302214924267
+
+ITEM PRICE:
+US $12.99
+
+
+
+Description
+5Pcs MCP2515 Module CAN Bus Module TJA1050 Receiver SPI For Arduino
+
+
+*US Seller and Fast shipping,Deliver from San Diego,CA
+*Support CAN V2.0B specification, the communication speed 1Mb / S
+*0 to 8-byte data field
+*Standard frame and expand the frame and remote frame
+*5V DC power supply module, SPI interface protocol control
+*120 ohm termination resistors. Impedance matching, ensure drive capacity long-distance data transmission against signal radiation
+*Size: 4.4cm x 2.8cm
+*Screw hole center spacing 23mm x 38mm 
+*Working current: typ. 5mA, 1 microamp standby current. Except the power indicator
+*Working temperature: Industrial grade to 85 ℃ -40 ℃
+
+Features
+
+Size	44mm*28mm
+Working Current	5mA/1uA(standby)
+Working Temper	-40~+85°C
+
+You'll Receive
+
+5Pcs MCP2515 Module CAN Bus Module
+
+
+
+SOFTWARE / LIBRARY / ETC
+
+ * https://github.com/Seeed-Studio/CAN_BUS_Shield
+ * http://henrysbench.capnfatz.com/henrys-bench/arduino-projects-tips-and-more/arduino-can-bus-module-pin-outs-and-schematics/
+
+
+ 
