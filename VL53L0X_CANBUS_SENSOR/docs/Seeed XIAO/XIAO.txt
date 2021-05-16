@@ -1,0 +1,43 @@
+Key Features
+Powerful CPU: ARM® Cortex®-M0+ 32bit 48MHz microcontroller(SAMD21G18) with 256KB Flash,32KB SRAM
+Flexible compatibility: Compatible with Arduino IDE
+Easy project operation: Breadboard-friendly
+Small size: As small as a thumb(20x17.5mm) for wearable devices and small projects.
+Multiple development interfaces: 11 digital/analogue pins, 10 PWM Pins, 1 DAC output, 1 SWD Bonding pad interface, 1 I2C interface, 1 UART interface, 1 SPI interface.
+
+Description
+Take a look at Seeeduino XIAO. What a small size and cute looking! It is the smallest member of the Seeeduino family. 
+Seeeduino XIAO still carries the powerful CPU-ARM® Cortex®-M0+(SAMD21G18) which is a low-power Arduino microcontroller. 
+On the other hand, this little board has good performance in processing but needs less power. As a matter of fact, it is 
+designed in a tiny size and can be used for Arduino wearable devices and small projects.
+
+Apart from the strong CPU, Seeeduino XIAO is excellent in many other functions. It has 14 GPIO PINs, 
+which can be used for 11 analogue PINs, 11 digital PINs, 1 I2C interface, 1 UART interface, and 1 SPI interface. 
+Some PINs have various functions, A1/D1 to A10/D10 Pins have PWM functions and Pin A0/D0 has a function of DAC
+which means you can get true analogue signals not PWM signals when you define it as an analogue pin, that’s why 
+14 GPIO PINs can realize more I/O PINs and interfaces. Moreover, Seeeduino XIAO supports the USB Type-C interface 
+which can supply power and download code. There are power pads at the back of the XIAO which support battery and 
+make it designed for wearable devices to become realistic. Except for the power LED, we add a user LED on board 
+for your better coding experience. Usually a Dev. Board as small as this size will use the chip’s inner crystal 
+oscillator for time fixing, in order to make the clock more accurate, Seeeduino XIAO layouts an extra 32.768KHz to make the clock more stable.
+
+Seeeduino XIAO is perfectly compatible with Arduino IDE, you can easily develop some small projects with 
+the help of the large and comprehensive Arduino library. So get one and you will soon love it!
+
+
+Attention
+
+All the I/O pins are 3.3V, please do not input more than 3.3V, otherwise, the CPU may be damaged.
+
+Specification
+CPU: ARM Cortex-M0+ CPU(SAMD21G18) running at up to 48MHz
+Storage: 256KB Flash,32KB SRAM
+I/O PINs: 14 GPIO PINs,11 analogue PINs, 11 digital PINs, 1 DAC output Pin
+Interface: 1 I2C interface,1 UART interface, 1 SPI interface
+Power supply and downloading interface: USB Type-C interface
+LEDs: 1 user LED, 1 power LED, two LEDs for serial port downloading
+Reset button: two reset button short connect to reset
+Power Pads: For the battery power supply
+Software compatibility: Compatible with Arduino IDE
+Projection cover for protecting the circuit
+Dimensions: 20x17.5x3.5 mm

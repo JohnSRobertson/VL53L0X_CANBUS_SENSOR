@@ -31,9 +31,9 @@
 #define USB_PID 0x802F
 #define USB_CONFIG_POWER 100
 #define __cplusplus 201103L
-//#define __GNUC__ 2
+#define __GNUC__ 2
 #define _Pragma(x)
-#define __ARMCC_VERSION 6010050
+//#define __ARMCC_VERSION 6010050
 
 #define __PTRDIFF_TYPE__ int
 #define __ARM__
@@ -61,10 +61,15 @@ typedef int __builtin_bswap16;
 #define _Pragma(x)
 #define __ASM
 #define __INLINE
+#define _PTR void *
+#define __INTPTR_TYPE__ int
+#define __INT32_TYPE__ long int
+#define __VALIST char*
 
 #include "samd.h"
 //#include "samd21/include/samd21.h"
 
+extern void* malloc(size_t __size); 
 
 
 #include "arduino.h"
